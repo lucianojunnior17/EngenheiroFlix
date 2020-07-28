@@ -11,8 +11,9 @@ function Footer() {
         Orgulhosamente criado durante a
         {' '}
         <a href="https://www.alura.com.br/">
-          Imersão React da Alura
-        </a>
+          Imersão React da Alura </a>
+          -- Luciano Lima do Nascimento Junior®
+
       </p>
     </FooterBase>
   );
